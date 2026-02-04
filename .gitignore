@@ -1,0 +1,63 @@
+# --- Python ---
+
+__pycache__/
+*.py[cod]
+*.$py.class
+*.so
+.python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# --- Entornos virtuales ---   
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# --- Jupyter Notebook ---
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# --- Datos ---
+*.csv
+*.xlsx
+*.json
+*.sql
+*.sqlite
+data/
+data_sets/
+
+# -- IDE --
+
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# --- Logs y configuracion ---
+*.log
+.env
+
+# --- personalizado ---
+metadatos/
+modelo_entidad_relacion/
+Produccion de vehiculos/
+leeme_faq.txt
+Venta de vehiculos/
+Venta vehiculos electricos e hibridos/
