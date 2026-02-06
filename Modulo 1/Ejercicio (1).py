@@ -110,3 +110,5 @@ print(L[4:])  # Salida: 1
 
 # :n -> desde el inicio hasta n-1 (se imprime hasta el elemento n)
 # n: -> desde n hasta el final (se imprime desde el elemento n)
+
+#acceder a 5 
