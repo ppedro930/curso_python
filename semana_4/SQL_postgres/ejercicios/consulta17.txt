@@ -1,0 +1,11 @@
+﻿artista	total_canciones
+Deep Purple	92
+Iron Maiden	213
+Led Zeppelin	114
+Lenny Kravitz	57
+Lost	92
+Metallica	112
+Pearl Jam	67
+The Office	53
+U2	135
+Various Artists	56

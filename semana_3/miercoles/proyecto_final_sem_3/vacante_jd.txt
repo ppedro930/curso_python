@@ -1,0 +1,20 @@
+TÍTULO: Data Scientist (Mid-Senior Level)
+
+DESCRIPCIÓN DEL PUESTO:
+Estamos buscando un Científico de Datos con experiencia para liderar proyectos de transformación digital. El candidato ideal debe tener un dominio técnico profundo y capacidad para desplegar modelos en producción.
+
+RESPONSABILIDADES CLAVE:
+- Diseño y entrenamiento de modelos predictivos complejos.
+- Optimización de consultas SQL en bases de datos de gran volumen.
+- Implementación de soluciones en la nube (AWS, Azure o GCP).
+- Mentoría a analistas junior y presentación de resultados a directivos.
+
+REQUISITOS TÉCNICOS:
+- Experiencia sólida programando en Python (Pandas, Scikit-learn, TensorFlow).
+- Conocimiento avanzado de SQL y arquitectura de datos.
+- Nivel de Inglés Avanzado (Indispensable para reuniones globales).
+- Familiaridad con herramientas de visualización (Tableau/PowerBI).
+
+OFRECEMOS:
+- Salario competitivo y prestaciones superiores.
+- Trabajo remoto.

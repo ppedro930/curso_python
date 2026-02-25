@@ -1,0 +1,15 @@
+﻿id_factura	cancion_comprada	precio_unitario	cantidad
+5	Body Count Anthem	0.99	1
+5	Bowels Of The Devil	0.99	1
+5	Cornucopia	0.99	1
+5	Dandelion	0.99	1
+5	Esse Cara	0.99	1
+5	Evil Woman	0.99	1
+5	Heart Of Gold	0.99	1
+5	Jerusalem	0.99	1
+5	Meditação	0.99	1
+5	Moon germs	0.99	1
+5	Rock 'N' Roll Music	0.99	1
+5	Super Terrorizer	0.99	1
+5	When My Left Eye Jumps	0.99	1
+5	Your Time Has Come	0.99	1

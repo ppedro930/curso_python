@@ -1,0 +1,9 @@
+usar dataset telco
+
+la misión: superar el "score" del modelo del martes usando un random forest
+
+actividad entregable
+generar la matriz de confusión.
+
+el reto de negocio : calcular: "si cada cliente perdido nos cuesta 1000 y cada promoción cuesta 50 
+¿Cuánto dinero pierde tu modelo  en falsos negativos vs falsos positivos?"

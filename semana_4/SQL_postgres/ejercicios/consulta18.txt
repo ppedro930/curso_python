@@ -1,0 +1,11 @@
+﻿cancion	artista	total_vendido
+Blood Brothers	Iron Maiden	2
+Bullet With Butterfly Wings	Smashing Pumpkins	2
+Dazed and Confused	Led Zeppelin	2
+Maybe I'm A Leo	Deep Purple	2
+Meu Caro Amigo	Chico Buarque	2
+Red Light	U2	2
+Rehab	Amy Winehouse	2
+Release	The Tea Party	2
+The Woman King	Battlestar Galactica	2
+Welcome Home (Sanitarium)	Apocalyptica	2

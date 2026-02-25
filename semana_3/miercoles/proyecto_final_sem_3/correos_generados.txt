@@ -1,0 +1,246 @@
+
+==============================
+CANDIDATO: ana.txt
+==============================
+¡Claro! Aquí tienes un borrador listo para enviar, profesional, cordial y corto:
+
+---
+
+**Asunto:** Invitación a Entrevista - [Puesto/Cargo al que aplicó] en [Nombre de la Empresa]
+
+**Estimada Ana,**
+
+Hemos revisado tu candidatura para el puesto de **[Puesto/Cargo al que aplicó]** y tu perfil nos ha parecido muy interesante.
+
+Nos gustaría invitarte a una primera entrevista para conversar más a fondo sobre tu experiencia y cómo encaja con nuestra empresa. Esta conversación inicial será [virtual/telefónica] y tendrá una duración aproximada de [20-30 minutos].
+
+¿Podrías indicarnos tu disponibilidad en los próximos días para coordinar esta cita?
+
+Agradecemos nuevamente tu interés en [Nombre de la Empresa] y quedamos a la espera de tu pronta respuesta.
+
+Saludos cordiales,
+
+**[Tu Nombre]**
+Reclutador/a de Recursos Humanos
+[Nombre de la Empresa]
+[Tu Teléfono de Contacto (opcional)]
+[Tu Correo Electrónico]
+
+---
+
+==============================
+CANDIDATO: jaun.txt
+==============================
+¡Claro! Aquí tienes una propuesta de correo breve y profesional, listo para enviar:
+
+---
+
+**Asunto:** Invitación a Entrevista - [Nombre del Puesto] - [Nombre de la Empresa]
+
+**Estimado/a [Nombre del Candidato],**
+
+Agradecemos tu interés en la posición de [Nombre del Puesto] en [Nombre de la Empresa].
+
+Hemos revisado tu perfil y nos ha parecido muy interesante. Nos gustaría invitarte a una entrevista para conversar sobre tu experiencia y cómo encajaría con nuestro equipo y los desafíos del rol.
+
+La entrevista tendría una duración aproximada de [Duración estimada, ej: 30-45 minutos] y la realizaríamos por videollamada.
+
+Para coordinar un horario que te resulte conveniente, por favor, responde a este correo indicando tu disponibilidad en los próximos días. Si lo prefieres, puedes agendar directamente aquí: [Enlace a Calendly o herramienta de scheduling si la tienes]
+
+Esperamos poder conversar contigo pronto.
+
+Saludos cordiales,
+
+[Tu Nombre como Reclutador/a]
+[Tu Cargo]
+[Nombre de la Empresa]
+[Tu Teléfono (opcional)]
+[Tu Correo Electrónico]
+
+---
+
+--- ana.txt ---
+¡Claro! Aquí tienes un borrador listo para enviar, profesional, cordial y corto:
+
+---
+
+**Asunto: Invitación a Entrevista - [Nombre del Puesto] - [Nombre de la Empresa]**
+
+Estimada Ana,
+
+Esperamos que este correo te encuentre bien.
+
+Hemos revisado tu candidatura para la posición de [Nombre del Puesto] en [Nombre de la Empresa] y nos ha parecido muy interesante.
+
+Nos gustaría invitarte a una entrevista virtual con nuestro equipo de selección para conversar más a fondo sobre tu experiencia y cómo encaja con nuestro puesto.
+
+¿Podrías, por favor, indicarnos tu disponibilidad en los próximos días para poder coordinar este encuentro?
+
+Agradecemos de antemano tu atención y esperamos tu pronta respuesta.
+
+Saludos cordiales,
+
+[Tu Nombre]
+[Tu Puesto]
+[Nombre de la Empresa]
+[Tu Correo Electrónico]
+[Tu Teléfono (opcional)]
+
+---
+
+**Notas para ti:**
+
+*   **[Nombre del Puesto]:** Asegúrate de reemplazar esto con el nombre exacto del puesto al que Ana aplicó.
+*   **[Nombre de la Empresa]:** Reemplaza con el nombre de tu empresa.
+*   **"entrevista virtual":** Si la entrevista fuera presencial, cambia esta frase.
+*   **Opcional - Enlace de calendario:** Si usas una herramienta de scheduling (como Calendly), podrías añadir: "...o si lo prefieres, puedes elegir un horario directamente en nuestro calendario: [Enlace a tu Calendario]". Esto haría el proceso aún más eficiente para ambos, aunque la versión actual es perfectamente válida y corta.
+
+--- jaun.txt ---
+Claro, aquí tienes un borrador listo para enviar:
+
+**Asunto:** Invitación a Entrevista - [Nombre del Puesto] - [Nombre de la Empresa]
+
+**Estimado/a Jaun,**
+
+Esperamos que este correo te encuentre bien.
+
+Hemos revisado tu candidatura para el puesto de **[Nombre del Puesto]** y tu perfil nos ha parecido muy interesante. Nos gustaría invitarte a una primera entrevista para conocerte mejor y conversar sobre cómo tus habilidades pueden encajar con nuestro equipo.
+
+Agradeceríamos si pudieras responder a este correo indicando tu disponibilidad en los próximos días hábiles para que podamos coordinar la entrevista.
+
+Esperamos tu pronta respuesta.
+
+Saludos cordiales,
+
+[Tu Nombre]
+[Tu Título/Cargo]
+[Nombre de la Empresa]
+[Tu Teléfono de Contacto (Opcional)]
+
+--- ana.txt ---
+¡Excelente! Aquí tienes una propuesta de correo breve, profesional y cordial, listo para enviar:
+
+---
+
+**Asunto:** Invitación a Entrevista - [Nombre del Puesto]
+
+**Estimada Ana,**
+
+Esperamos que este correo te encuentre bien.
+
+Nos complace contactarte con respecto a tu candidatura para la posición de **[Nombre del Puesto]** en **[Nombre de la Empresa]**. Hemos revisado tu perfil con gran interés y nos gustaría invitarte a una entrevista para conocernos mejor y conversar sobre tus habilidades y experiencia.
+
+Por favor, responde a este correo indicando tu disponibilidad en los próximos días, o si prefieres, podemos coordinar una breve llamada para agendar la entrevista.
+
+Agradecemos tu interés en **[Nombre de la Empresa]** y esperamos tu pronta respuesta.
+
+Atentamente,
+
+**[Tu Nombre Completo]**
+[Tu Título]
+[Nombre de la Empresa]
+[Tu Teléfono de Contacto]
+[Tu Correo Electrónico]
+
+---
+
+**Notas para ti:**
+
+*   **[Nombre del Puesto]:** Asegúrate de poner el nombre exacto del puesto al que Ana aplicó.
+*   **[Nombre de la Empresa]:** Rellena con el nombre de tu empresa.
+*   **[Tu Nombre Completo], [Tu Título], [Tu Teléfono de Contacto], [Tu Correo Electrónico]:** Completa con tus datos profesionales.
+
+Este correo es directo, positivo y facilita el siguiente paso sin abrumar con detalles iniciales de agendamiento.
+
+--- jaun.txt ---
+¡Claro! Aquí tienes un borrador de correo breve, profesional y cordial para invitar al candidato a una entrevista:
+
+---
+
+**Asunto:** Invitación a Entrevista - [Nombre del Puesto] en [Nombre de la Empresa]
+
+**Estimado/a [Nombre del Candidato],**
+
+Hemos revisado con atención su aplicación para la posición de **[Nombre del Puesto]** y su perfil nos ha parecido muy interesante.
+
+Nos gustaría invitarle a una primera entrevista para conversar sobre su experiencia y conocerle mejor. Esta conversación tendrá una duración aproximada de **[30-45] minutos** y se realizará de forma **[virtual / presencial en nuestras oficinas]**.
+
+Por favor, indíquenos su disponibilidad en los próximos días para coordinar la mejor fecha y hora. Alternativamente, podemos enviarle un enlace a nuestra agenda para que seleccione el espacio que mejor le convenga.
+
+Agradecemos de antemano su respuesta y esperamos tener la oportunidad de conversar pronto con usted.
+
+Atentamente,
+
+**[Tu Nombre]**
+[Tu Cargo]
+[Nombre de la Empresa]
+[Tu Teléfono/Email de Contacto - Opcional]
+
+---
+
+**Notas para antes de enviar:**
+
+*   Reemplaza `[Nombre del Candidato]`, `[Nombre del Puesto]`, `[Nombre de la Empresa]`, `[30-45]` y `[virtual / presencial en nuestras oficinas]` con la información específica.
+*   Elige si la entrevista será virtual o presencial.
+
+--- ana.txt ---
+¡Claro! Aquí tienes un borrador listo para enviar, profesional, cordial y corto, adaptado a los datos proporcionados:
+
+---
+
+**Asunto:** Invitación a Entrevista - [Nombre del Puesto] - [Nombre del Candidato]
+
+Estimado/a [Nombre del Candidato],
+
+Esperamos que este correo te encuentre bien.
+
+Nos ponemos en contacto contigo en relación a tu solicitud para la posición de **[Nombre del Puesto]** en **[Nombre de la Empresa]**.
+
+Hemos revisado tu perfil con gran interés y nos gustaría invitarte a una entrevista para conocernos mejor y conversar sobre tu experiencia.
+
+Por favor, indícanos tu disponibilidad en los próximos días o si prefieres que te contactemos para coordinar una fecha y hora que te resulten convenientes.
+
+Agradecemos tu interés en [Nombre de la Empresa] y esperamos poder hablar contigo pronto.
+
+Saludos cordiales,
+
+[Tu Nombre]
+[Tu Cargo]
+[Nombre de la Empresa]
+[Tu Correo Electrónico o Número de Contacto (opcional)]
+
+---
+
+**Notas para ti (reclutador):**
+
+*   Recuerda reemplazar los campos entre corchetes `[]` con la información específica.
+*   Aunque el archivo se llama `ana.txt`, es crucial que uses el nombre completo real del candidato en el saludo para mayor profesionalismo.
+*   El nivel de compatibilidad del 78.48% es un dato interno y no debe ser compartido con el candidato.
+
+--- jaun.txt ---
+Claro, aquí tienes una propuesta de correo breve, profesional y cordial, listo para enviar:
+
+---
+
+**Asunto:** Invitación a Entrevista - [Nombre del Puesto] - [Nombre de la Empresa]
+
+**Estimado/a [Nombre del Candidato/a],**
+
+Esperamos que este correo le encuentre bien.
+
+Hemos revisado su postulación para la posición de **[Nombre del Puesto]** y nos complace comunicarle que su perfil ha captado nuestra atención. Hemos encontrado un alto nivel de compatibilidad con los requisitos del rol, lo cual nos entusiasma.
+
+Por lo tanto, nos gustaría invitarle a una entrevista inicial para conversar más a fondo sobre su experiencia y la oportunidad en **[Nombre de la Empresa]**.
+
+Por favor, háganos saber su disponibilidad general en los próximos días para poder coordinar esta entrevista inicial. Estaremos encantados de adaptarnos en la medida de lo posible.
+
+Agradecemos de antemano su tiempo e interés.
+
+Saludos cordiales,
+
+[Tu Nombre]
+[Tu Cargo]
+[Nombre de la Empresa]
+[Tu Número de Contacto o Correo Electrónico]
+
+---

@@ -1,0 +1,238 @@
+﻿pais	genero	total_dinero	total_transacciones
+Argentina	Alternative & Punk	8.91	9
+Argentina	Easy Listening	1.98	2
+Argentina	Jazz	1.98	2
+Argentina	Latin	7.92	8
+Argentina	Metal	6.93	7
+Argentina	Rock	8.91	9
+Argentina	Soundtrack	0.99	1
+Australia	Blues	0.99	1
+Australia	Heavy Metal	2.97	3
+Australia	Latin	1.98	2
+Australia	Metal	7.92	8
+Australia	Reggae	1.98	2
+Australia	Rock	21.78	22
+Austria	Classical	1.98	2
+Austria	Drama	1.99	1
+Austria	Jazz	1.98	2
+Austria	Latin	1.98	2
+Austria	Metal	6.93	7
+Austria	Pop	0.99	1
+Austria	R&B/Soul	3.96	4
+Austria	Rock	14.85	15
+Austria	TV Shows	7.96	4
+Belgium	Alternative & Punk	13.86	14
+Belgium	Metal	0.99	1
+Belgium	R&B/Soul	1.98	2
+Belgium	Rock	20.79	21
+Brazil	Alternative & Punk	6.93	7
+Brazil	Blues	5.94	6
+Brazil	Classical	5.94	6
+Brazil	Hip Hop/Rap	1.98	2
+Brazil	Latin	52.47	53
+Brazil	Metal	14.85	15
+Brazil	Pop	2.97	3
+Brazil	R&B/Soul	2.97	3
+Brazil	Reggae	5.94	6
+Brazil	Rock	80.19	81
+Brazil	Sci Fi & Fantasy	3.98	2
+Brazil	Soundtrack	3.96	4
+Brazil	World	1.98	2
+Canada	Alternative & Punk	35.64	36
+Canada	Blues	3.96	4
+Canada	Bossa Nova	6.93	7
+Canada	Classical	4.95	5
+Canada	Drama	3.98	2
+Canada	Electronica/Dance	3.96	4
+Canada	Hip Hop/Rap	4.95	5
+Canada	Jazz	12.87	13
+Canada	Latin	59.4	60
+Canada	Metal	39.6	40
+Canada	R&B/Soul	4.95	5
+Canada	Reggae	6.93	7
+Canada	Rock	105.93	107
+Canada	Rock And Roll	1.98	2
+Canada	TV Shows	1.99	1
+Canada	World	5.94	6
+Chile	Alternative & Punk	1.98	2
+Chile	Blues	1.98	2
+Chile	Classical	0.99	1
+Chile	Drama	7.96	4
+Chile	Easy Listening	2.97	3
+Chile	Latin	7.92	8
+Chile	Metal	2.97	3
+Chile	Rock	8.91	9
+Chile	Sci Fi & Fantasy	1.99	1
+Chile	Science Fiction	3.98	2
+Chile	Soundtrack	0.99	1
+Chile	TV Shows	3.98	2
+Czech Republic	Alternative & Punk	8.91	9
+Czech Republic	Blues	0.99	1
+Czech Republic	Drama	11.94	6
+Czech Republic	Electronica/Dance	1.98	2
+Czech Republic	Jazz	2.97	3
+Czech Republic	Latin	8.91	9
+Czech Republic	Metal	5.94	6
+Czech Republic	Pop	3.96	4
+Czech Republic	R&B/Soul	1.98	2
+Czech Republic	Rock	24.75	25
+Czech Republic	Science Fiction	1.99	1
+Czech Republic	TV Shows	15.92	8
+Denmark	Alternative & Punk	3.96	4
+Denmark	Latin	3.96	4
+Denmark	Metal	5.94	6
+Denmark	Pop	2.97	3
+Denmark	Rock	20.79	21
+Finland	Alternative & Punk	1.98	2
+Finland	Jazz	1.98	2
+Finland	Latin	8.91	9
+Finland	Metal	1.98	2
+Finland	Reggae	0.99	1
+Finland	Rock	17.82	18
+Finland	Sci Fi & Fantasy	7.96	4
+France	Alternative	3.96	4
+France	Alternative & Punk	30.69	31
+France	Blues	1.98	2
+France	Bossa Nova	0.99	1
+France	Classical	9.9	10
+France	Drama	7.96	4
+France	Electronica/Dance	1.98	2
+France	Hip Hop/Rap	1.98	2
+France	Jazz	10.89	11
+France	Latin	25.74	26
+France	Metal	19.8	20
+France	Pop	1.98	2
+France	Reggae	0.99	1
+France	Rock	64.35	65
+France	Rock And Roll	0.99	1
+France	Sci Fi & Fantasy	3.98	2
+France	Soundtrack	4.95	5
+France	TV Shows	1.99	1
+Germany	Alternative	0.99	1
+Germany	Alternative & Punk	12.87	13
+Germany	Blues	13.86	14
+Germany	Drama	1.99	1
+Germany	Easy Listening	1.98	2
+Germany	Heavy Metal	2.97	3
+Germany	Jazz	1.98	2
+Germany	Latin	17.82	18
+Germany	Metal	24.75	25
+Germany	Pop	0.99	1
+Germany	Rock	61.38	62
+Germany	Science Fiction	3.98	2
+Germany	Soundtrack	4.95	5
+Germany	TV Shows	5.97	3
+Hungary	Alternative & Punk	2.97	3
+Hungary	Blues	1.98	2
+Hungary	Comedy	1.99	1
+Hungary	Drama	3.98	2
+Hungary	Electronica/Dance	0.99	1
+Hungary	Latin	2.97	3
+Hungary	Metal	4.95	5
+Hungary	R&B/Soul	4.95	5
+Hungary	Rock	10.89	11
+Hungary	Sci Fi & Fantasy	1.99	1
+Hungary	TV Shows	7.96	4
+India	Alternative & Punk	10.89	11
+India	Blues	2.97	3
+India	Classical	1.98	2
+India	Jazz	9.9	10
+India	Latin	8.91	9
+India	Metal	7.92	8
+India	R&B/Soul	3.96	4
+India	Rock	24.75	25
+India	Sci Fi & Fantasy	1.99	1
+India	TV Shows	1.99	1
+Ireland	Alternative & Punk	3.96	4
+Ireland	Blues	0.99	1
+Ireland	Drama	1.99	1
+Ireland	Jazz	2.97	3
+Ireland	Latin	6.93	7
+Ireland	Metal	2.97	3
+Ireland	Rock	11.88	12
+Ireland	TV Shows	13.93	7
+Italy	Alternative & Punk	10.89	11
+Italy	Blues	3.96	4
+Italy	Classical	1.98	2
+Italy	Latin	1.98	2
+Italy	Metal	0.99	1
+Italy	Rock	17.82	18
+Netherlands	Alternative & Punk	4.95	5
+Netherlands	Blues	3.96	4
+Netherlands	Latin	2.97	3
+Netherlands	Metal	1.98	2
+Netherlands	Pop	2.97	3
+Netherlands	Rock	17.82	18
+Netherlands	Sci Fi & Fantasy	5.97	3
+Norway	Alternative	3.96	4
+Norway	Alternative & Punk	1.98	2
+Norway	Classical	4.95	5
+Norway	Drama	3.98	2
+Norway	Electronica/Dance	1.98	2
+Norway	Latin	4.95	5
+Norway	Rock	16.83	17
+Norway	World	0.99	1
+Poland	Alternative & Punk	6.93	7
+Poland	Blues	0.99	1
+Poland	Jazz	0.99	1
+Poland	Latin	6.93	7
+Poland	Rock	21.78	22
+Portugal	Alternative & Punk	4.95	5
+Portugal	Blues	0.99	1
+Portugal	Electronica/Dance	0.99	1
+Portugal	Heavy Metal	1.98	2
+Portugal	Jazz	1.98	2
+Portugal	Latin	12.87	13
+Portugal	Metal	10.89	11
+Portugal	Pop	3.96	4
+Portugal	R&B/Soul	1.98	2
+Portugal	Rock	30.69	31
+Portugal	Sci Fi & Fantasy	1.99	1
+Portugal	TV Shows	1.99	1
+Portugal	World	1.98	2
+Spain	Alternative & Punk	3.96	4
+Spain	Hip Hop/Rap	0.99	1
+Spain	Jazz	1.98	2
+Spain	Latin	3.96	4
+Spain	Metal	2.97	3
+Spain	Reggae	1.98	2
+Spain	Rock	21.78	22
+Sweden	Alternative & Punk	5.94	6
+Sweden	Jazz	0.99	1
+Sweden	Latin	11.88	12
+Sweden	Metal	6.93	7
+Sweden	Rock	9.9	10
+Sweden	TV Shows	1.99	1
+Sweden	World	0.99	1
+USA	Alternative	4.95	5
+USA	Alternative & Punk	49.5	50
+USA	Blues	14.85	15
+USA	Bossa Nova	6.93	7
+USA	Classical	7.92	8
+USA	Comedy	15.92	8
+USA	Drama	11.94	6
+USA	Easy Listening	2.97	3
+USA	Heavy Metal	3.96	4
+USA	Hip Hop/Rap	3.96	4
+USA	Jazz	21.78	22
+USA	Latin	90.09	91
+USA	Metal	63.36	64
+USA	Pop	4.95	5
+USA	R&B/Soul	11.88	12
+USA	Reggae	5.94	6
+USA	Rock	155.43	157
+USA	Rock And Roll	2.97	3
+USA	Sci Fi & Fantasy	9.95	5
+USA	Science Fiction	1.99	1
+USA	Soundtrack	3.96	4
+USA	TV Shows	27.86	14
+United Kingdom	Alternative & Punk	8.91	9
+United Kingdom	Hip Hop/Rap	2.97	3
+United Kingdom	Jazz	3.96	4
+United Kingdom	Latin	30.69	31
+United Kingdom	Metal	19.8	20
+United Kingdom	Pop	1.98	2
+United Kingdom	R&B/Soul	1.98	2
+United Kingdom	Reggae	4.95	5
+United Kingdom	Rock	36.63	37
+United Kingdom	World	0.99	1

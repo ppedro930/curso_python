@@ -1,0 +1,14 @@
+Nombre: Luis Méndez
+Profesión: Analista de Datos Junior
+
+Resumen:
+Recién egresado de Ingeniería con enfoque en estadística y probabilidad. He complementado mi formación académica con certificaciones especializadas en Ciencia de Datos y Machine Learning. Busco aplicar mis conocimientos matemáticos en un entorno corporativo real.
+
+Habilidades Técnicas:
+- Programación en Python (Nivel Intermedio) aplicada a cálculo numérico.
+- Manejo de Pandas para limpieza y estructuración de datos (Data Wrangling).
+- SQL básico (Consultas, Joins y Agregaciones).
+- Inglés nivel B2 (Intermedio).
+- Desarrollo de proyectos académicos de análisis exploratorio (EDA) y regresiones.
+
+Soy una persona analítica, con gran atención al detalle y capacidad para resolver problemas complejos mediante lógica y código.

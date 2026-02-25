@@ -1,0 +1,63 @@
+el detective de fugas (Pipelines y logistica)
+
+Dataset: Telco (completo)
+
+La Misión : Construir el primer pipeline que limpie los datos automáticamente y prediga el churn 
+
+actividad entregable:
+
+comparar clientes específicos:
+
+cliente A: Contrato de mes a mes, Fibra óptica.
+
+Cliente B: contrato a 2 años, DSL
+
+Pregunta de cierre: "¿cual de los 2 tiene mayor probabilidad (porcentaje) de irse según tu modelo?
+
+----cambiar de algoritmo cuando el codo no se ve en la grafica (kmeans) (ya que esta mal) (se debe inferir con mas datos (columnas) para tratar de encontrar un resultado que de el codo) y poder ver los cluster
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ocupar como datos de entrenamiento a las variables de monthlycharges y tenue
+
+realizar 3 predicciones.
+
+una con el 80% de datos de entrenamiento y 20% de validacion
+una con el 70% de datos de entrenamiento y 30% de validación
+una con el 90% de datos de entrenamiento y 10% de validacion
+
+generar 3 graficas para cada caso.
+
+fecha limite mañana 10-02-26 a las 8:30am
+
+2.como funciona la regresión logística
+

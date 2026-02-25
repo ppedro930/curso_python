@@ -1,0 +1,13 @@
+un data set limpio con los formatos correctos para cada columna
+limpiar los valores e inferir la información posible
+generar un nuevo archivo con dataset limpio
+
+considerar 
+
+usar pandas 
+debe haber al menos un comentario
+explicando una función compleja o lógica compleja
+deben crear al menos 5 funciones
+deben handalear al menos un error
+deben poner condicionales por si no entra la variable esperada
+deben usar almenos apply lambda slices groupby

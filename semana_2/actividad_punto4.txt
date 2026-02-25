@@ -1,0 +1,14 @@
+ocupar como datos de entrenamiento a las variables de monthlycharges y tenue
+
+realizar 3 predicciones.
+
+una con el 80% de datos de entrenamiento y 20% de validacion
+una con el 70% de datos de entrenamiento y 30% de validación
+una con el 90% de datos de entrenamiento y 10% de validacion
+
+generar 3 graficas para cada caso.
+
+fecha limite mañana 10-02-26 a las 8:30am
+
+2.como funciona la regresión logística
+

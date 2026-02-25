@@ -1,0 +1,13 @@
+Nombre: Ana García
+Profesión: Senior Data Scientist
+
+Resumen:
+Tengo más de 5 años de experiencia liderando equipos de análisis de datos. Soy experta en Python y uso librerías como Pandas, NumPy y Scikit-Learn diariamente para modelado predictivo. 
+
+Habilidades Técnicas:
+- Dominio avanzado de SQL para consultas complejas en BigQuery.
+- Visualización de datos con Tableau y PowerBI.
+- Inglés nivel C1 (Avanzado), capaz de presentar resultados a clientes internacionales.
+- Experiencia en despliegue de modelos de Machine Learning en AWS.
+
+Busco una oportunidad para aplicar mis conocimientos en inteligencia artificial y optimización de procesos.

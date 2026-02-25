@@ -1,0 +1,14 @@
+Nombre: Sofía Ramírez
+Profesión: Gerente de Marketing Digital
+
+Resumen:
+Especialista en estrategias de SEO y SEM con enfoque en datos. Me gusta tomar decisiones basadas en métricas y KPIs.
+
+Habilidades:
+- Análisis de datos de tráfico web usando Google Analytics.
+- Conocimiento básico de HTML y CSS.
+- He utilizado Python en ocasiones para automatizar reportes simples de Excel.
+- Excel avanzado (Macros y Tablas Dinámicas).
+- Inglés fluido.
+
+Busco transicionar hacia un rol más técnico donde pueda mezclar marketing con ciencia de datos.
