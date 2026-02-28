@@ -33,6 +33,6 @@ ventas_max_martes = max(ventas_semana[1]["montos"])
 ventas_totales_por_semana = 0
 
 for dia in ventas_semana:
-    ventas_totales_por_semana += sum(dia["montos"]) # -> (+=) ventas_totales + sum(dia["montos"])
+    ventas_totales_por_semana += sum(dia["montos"] ) # -> (+=) ventas_totales + sum(dia["montos"])
 
-    print(f"suma total de ventas en la semana: ${ventas_totales_por_semana:.2f}")
+    print(f"suma total de ventas en la semana por dia : ${ventas_totales_por_semana:.2f}")

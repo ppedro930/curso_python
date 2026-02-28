@@ -22,7 +22,7 @@ def analizar_sentimiento(texto_usuario):
     
     promt_sistema = """
 
-    eresn un analista de datos senior.
+    eres un analista de datos senior.
     clasifica el siguiente texto en positivo, negativo o neutro:
     responde solo en mayuscula con la egtqueta correspondiente, sin markdown ni explicaciones.
 
