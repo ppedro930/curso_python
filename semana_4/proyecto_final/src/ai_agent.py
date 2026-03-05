@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 import time
 
 
-    # RUTAS AUTOMÁTICAS (IGUAL QUE TU PROYECTO)
+    # RUTAS AUTOMÁTICAS (IGUAL QUE TU PROYECTO) 
 def main():
 
     BASE_DIR = Path(__file__).resolve().parent.parent 

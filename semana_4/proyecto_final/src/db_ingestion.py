@@ -206,7 +206,7 @@ def main():
     cursor.close() #cierra consulta
     conn.close()  #cierra conexion
 
-    print("BASE LISTA PARA POWER BI")
+    print("BASE DE DATOS POSTGRES LISTA PARA POWER BI")
 
     print(" tiempo total de db_ingestion:", round(time.time()-inicio,2),"seg")
 

@@ -3,14 +3,12 @@ from pathlib import Path
 import glob
 
 
-
-    # RUTAS AUTOMÁTICAS (PATHLIB PROFESIONAL)
-
 def main():
 
     BASE_DIR = Path(__file__).resolve().parent.parent 
-    #aca se define la ruta absoluta del directorio raíz del proyecto
-    #(__file__) contiene la ruta del script que se está ejecutando la cual se le indica abajo
+    # Se obtiene la ruta absoluta del directorio donde se encuentra este script.
+    # __file__ representa la ruta del archivo actual y resolve().parent permite
+    # obtener la carpeta raíz del proyecto para construir rutas relativas.
     RAW_PATH = BASE_DIR / "data" / "raw" 
     #aca se le indica esta ruta diciendole donde estan los archivos a procesar
     PROCESSED_PATH = BASE_DIR / "data" / "processed"
@@ -25,27 +23,28 @@ def main():
     # FUNCIONES DE LIMPIEZA
 
 
-    def clean_price(x): #se crea la funcion de limpieza del campo price del df
+    def clean_price(x): #se crea la funcion de limpieza del campo price del df el 
+        #alias de x es una variable para que se guarde ahi para que despues se aplique
         if pd.isna(x): # condicional (si hay valores vacios o faltantes)
             return None # regresa valores nulos o vacios
         try:
             return float(str(x).replace("$", "").replace(",", "").strip()) #ahora esto agarra el formato 
         #string de los datos que encuentra y los convierte a float y con replace borra 
-        # el signo pesosy las comas y strip elimina espacios en blanco
+        # el signo pesos y las comas y strip elimina espacios en blanco
         # todo esto es para que no haiga conflicto alguno al momento de hacer la conversion 
 
         except:
             return None # y la excepcion es para que regrese valores nulos o vacios
 
 
-    def clean_text(series): #se define otra funcion de neighbourhood_cleansed
+    def clean_text(series): #se define otra funcion de neighbourhood_cleansed y producto
         return series.astype(str).str.upper().str.strip() # .astype(str)Convierte todo a texto (string).
     # .str.upper() pasa todo a mayuscula 
     # .str.strip() Elimina los espacios en blanco al principio y al final
 
 
 
-    # AIRBNB (NO TOCADO)
+    # AIRBNB archivos que se vana procesar
 
 
     def process_airbnb(file): 
@@ -192,57 +191,57 @@ def main():
     # MAIN ETL (BUSQUEDA RECURSIVA)
 
 
-    def main(): #se define la funcion standar
+    
 
-        print("\nBuscando CSV en:", RAW_PATH) #indica que va a buscar en la ruta que se le dio
+    print("\nBuscando CSV en:", RAW_PATH) #indica que va a buscar en la ruta que se le dio
 
         # BUSCAR TODOS LOS CSV RECURSIVAMENTE
-        files = list(RAW_PATH.rglob("*.csv"))  # comienza a enlistar 
+    files = list(RAW_PATH.rglob("*.csv"))  # comienza a enlistar 
         #la busqueda de archivos csv y los guarda en la variable files (los csv que vaya encontrando)
 
-        if not files: # condicional en caso de que no encuentre csv
+    if not files: # condicional en caso de que no encuentre csv
             print(" No hay CSV") #muestra este mensaje
             return # finaliza el ciclo de busqueda
 
-        airbnb_files = [] #se crea lista vacia para almacenar el o los archivos que encuentre
-        profeco_files = []
+    airbnb_files = [] #se crea lista vacia para almacenar el o los archivos que encuentre
+    profeco_files = []
 
-        for f in files: #ciclo para files usando f solo para cada paso del ciclo 
+    for f in files: #ciclo para files usando f solo para cada paso del ciclo 
 
-            path_str = str(f).lower() #aca se demuestra que f es solo para funciones en este ciclo
+        path_str = str(f).lower() #aca se demuestra que f es solo para funciones en este ciclo
             # lo que hace aca es que todo dato string que este en mayuscula pasa a minuscula
 
 
             # ignorar diccionario
-            if "diccionario" in path_str:
+        if "diccionario" in path_str:
             #condición que verifica si la palabra específica "diccionario" 
             #está contenida dentro de una variable de texto llamada path_str.
                 
-                continue # Si encuentra la palabra 'diccionario' en esta ruta, 
+            continue # Si encuentra la palabra 'diccionario' en esta ruta, 
             #la ignora y pasa a la siguiente".
             
 
-            if "airbnb" in path_str or "listing" in path_str:#la condicion hace que
+        if "airbnb" in path_str or "listing" in path_str:#la condicion hace que
             # si la palabra airbnb o listing están presentes en la variable path_str
             #se agrega a una lista llamada airbnb_files
                 airbnb_files.append(f) # con append se agrega los archivos enlistados
 
-            elif "profeco" in path_str or "2025" in path_str: 
+        elif "profeco" in path_str or "2025" in path_str: 
             # segunda condicion Si la primera condición (Airbnb) 
             # #no se cumplió, se revisa esta.
                 profeco_files.append(f) # con append se agrega los archivos enlistados
 
         # AIRBNB
-        for f in airbnb_files: # condicional para airbnb_files
+    for f in airbnb_files: # condicional para airbnb_files
             #nuevamente se crea con ciclo for y se le asigna la f 
             #igual que la anterior 
             process_airbnb(f) # se usa esa f porque ahi se agrego airbnb
 
         # PROFECO (TODOS JUNTOS)
-        if profeco_files: #condicional  que indica que si la variable 
+    if profeco_files: #condicional  que indica que si la variable 
             #guardo uno o varios archivos en profeco
             process_profeco(profeco_files) # lo verifica con la funcion process_profeco
-        else:
+    else:
             print("No se encontraron archivos Profeco") #caso contrario arroja el mensaje
 
 

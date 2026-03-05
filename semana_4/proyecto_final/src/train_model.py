@@ -33,7 +33,7 @@ def main():
     # 1️⃣ REGRESIÓN → PREDECIR PRICE
 
 
-    df_num = df.select_dtypes(include="number") 
+    df_num = df.select_dtypes(include="number")
     #se crea la variable con df_num anexando la variable del archivo df dandole una clase select_dtypes 
     #  selecionando los datatypes de todas las columnas que sean tipo numerico
 
