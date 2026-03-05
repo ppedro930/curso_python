@@ -33,17 +33,17 @@ def main():
     # 1️⃣ REGRESIÓN → PREDECIR PRICE
 
 
-    #df_num = df.select_dtypes(include="number")
+    
     df = df[df["price"] < df["price"].quantile(0.95)]
-    #se crea la variable con df_num anexando la variable del archivo df dandole una clase select_dtypes 
-    #  selecionando los datatypes de todas las columnas que sean tipo numerico
+    #se crea una mascara booleana indicando que la columna price Calcula el percentil 95 del precio.
     features = [
     "accommodates",
     "bedrooms",
     "beds",
     "availability_365",
     "minimum_nights"
-    ]
+    ] #columnas para rellenarlas con 0 en el cluster (en caso de haber campos vacios)
+    #esa es la lista que usará el modelo de regresión para predecir price.
 
     features = [f for f in features if f in df.columns]
 
