@@ -25,20 +25,21 @@ def main():
 
     def clean_price(x): #se crea la funcion de limpieza del campo price del df el 
         #alias de x es una variable para que se guarde ahi para que despues se aplique
-        if pd.isna(x): # condicional (si hay valores vacios o faltantes)
+        if pd.isna(x): # condicional (si hay valores vacios)
             return None # regresa valores nulos o vacios
         try:
             return float(str(x).replace("$", "").replace(",", "").strip()) #ahora esto agarra el formato 
         #string de los datos que encuentra y los convierte a float y con replace borra 
         # el signo pesos y las comas y strip elimina espacios en blanco
         # todo esto es para que no haiga conflicto alguno al momento de hacer la conversion 
+        #en la columna price.., la cual se especifica mas abajo al aplicar los cambios
 
         except:
             return None # y la excepcion es para que regrese valores nulos o vacios
 
 
     def clean_text(series): #se define otra funcion de neighbourhood_cleansed y producto
-        return series.astype(str).str.upper().str.strip() # .astype(str)Convierte todo a texto (string).
+        return series.astype(str).str.upper().str.strip() # .astype(str)procesa todo el texto (string).
     # .str.upper() pasa todo a mayuscula 
     # .str.strip() Elimina los espacios en blanco al principio y al final
 
@@ -56,7 +57,7 @@ def main():
 
         df = pd.read_csv(file) # lee el archivo (airbnb.csv)
 
-        filas_antes = len(df) #muestra las columnas por default de (airbnb.csv)
+        filas_antes = len(df) #muestra las filas por default de (airbnb.csv)
 
         if "price" in df.columns: #si encuentra precio en el dataframe hacer lo siguiente
             df["price"] = df["price"].apply(clean_price)
@@ -95,7 +96,8 @@ def main():
 
 
         #print("\n--- MUESTRA AIRBNB LIMPIO ---")
-        #print(df.head(5).to_string()) # lo comente porque no es necesario mostrarlo en consola muestra datos generales procesados
+        #print(df.head(5).to_string()) # lo comente porque no es necesario 
+        # mostrarlo en consola muestra datos generales procesados
 
         if "price" in df.columns:
             print("\n--- INFO PRECIOS ---")
