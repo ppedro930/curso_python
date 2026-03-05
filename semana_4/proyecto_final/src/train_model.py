@@ -33,18 +33,23 @@ def main():
     # 1️⃣ REGRESIÓN → PREDECIR PRICE
 
 
-    df_num = df.select_dtypes(include="number")
+    #df_num = df.select_dtypes(include="number")
+    df = df[df["price"] < df["price"].quantile(0.95)]
     #se crea la variable con df_num anexando la variable del archivo df dandole una clase select_dtypes 
     #  selecionando los datatypes de todas las columnas que sean tipo numerico
+    features = [
+    "accommodates",
+    "bedrooms",
+    "beds",
+    "availability_365",
+    "minimum_nights"
+    ]
 
-    if "price" not in df_num.columns: #si price tipo numerico no esta en columns
-        raise Exception("No existe columna numérica 'price'") #devuelve esto
+    features = [f for f in features if f in df.columns]
 
-    df_num = df_num.dropna(subset=["price"]).fillna(0) #variable que borra datos nulos 
-    #en caso de que los encuentre en la columna price
+    X = df[features].fillna(0) # se rellenan con 0 las columnas
+    y = df["price"] #se mantiene price
 
-    X = df_num.drop(columns=["price"]) #en el eje x se borra la columna price
-    y = df_num["price"] #en y se mantiene price
 
 
     #la funcion train_test_split Divide los datos en entrenamiento (80%) y prueba (20%)
@@ -127,7 +132,8 @@ def main():
     # df = el DataFrame actual (ya con columnas de cluster, price limpios etc.)
     #.to_csv(...) funcion de pandas para guardar csv
     #index=False... Por defecto, pandas guarda una columna extra al principio con los 
-    # números de fila (0, 1, 2...). Al poner False, se evita que esa columna innecesaria se guarde en tu archivo.
+    # números de fila (0, 1, 2...). Al poner False, se evita que esa columna innecesaria 
+    # se guarde en tu archivo.
     ############################################################
     # 4️⃣ GUARDAR GRÁFICA AUTOMÁTICA
 

@@ -45,7 +45,7 @@ def main():
     #los servidores de Google para permitir usar sus servicios de IA
 
     model = genai.GenerativeModel("gemini-2.5-flash-lite") 
-    #funcion que le asigna el modelo 
+    #variable que le asigna el modelo que se va a usar
 
     print("Gemini conectado") 
 
@@ -99,7 +99,7 @@ def main():
     print(" Top municipios seleccionados:", len(top5))
     #len muestra solo el conteo del top 5 especificado en head(5) puedes cambiarlo pero 
     # el numero que ponga es a lo que se va hacer analisis...
-    # #igual si pongo tails(5) mostraria los 5 ultmimos
+    # #igual si pongo tails(5) en donde esta la variable top5 mostraria los 5 ultmimos
 
 
     # GENERAR REPORTE IA
